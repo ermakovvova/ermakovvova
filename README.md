@@ -18,4 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=ermakovvova&layout=pie
+
+https://github-readme-stats.vercel.app/api?username=ermakovvova
+
 -->

@@ -3,7 +3,8 @@
 - 🧑‍💻 Machine Learning Engineer with 4 years of experience
 - 🧑‍💻 5 years of experience in space research
 - 🤖 Passionate about machine learning and data science
-- 🕵️ Working on recommender and search systems
+- 🕵️ Working on AI assistants
+- 🕵️ Worked on recommender and search systems
 
 <!--
 **ermakovvova/ermakovvova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

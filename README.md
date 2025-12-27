@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 Machine Learning Engineer with 4 years of experience
+- 🧑‍💻 Machine Learning and AI Engineer with more than 6 years of experience
 - 🧑‍💻 5 years of experience in space research
 - 🤖 Passionate about machine learning and data science
 - 🕵️ Working on AI assistants

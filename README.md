@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 Machine Learning and AI Engineer
+- 🧑‍💻 6 years in Machine Learning and AI engineering
 - 🧑‍💻 5 years of experience in space physics research
 - 🤖 Passionate about machine and deep learning and data science
 - 🕵️ Working on AI assistants
